@@ -29,20 +29,14 @@ This Tableau Public project presents a visual exploration of house sales data in
 - **Dynamic map** with zoom and pan
 - Hover for detailed tooltips across visuals
 
----
-
-## 📁 Files in This Repository
-- `KingCountySalesDashboard.twbx` — Tableau workbook (packaged, includes data)
-- `README.md` — This file
-- `dashboard_screenshot.png` — Static preview (see below)
-
----
 
 ## 🖼️ Dashboard Preview
+--<img width="1258" alt="Map" src="https://github.com/user-attachments/assets/5aef33ae-3146-49e2-be30-0836c92dea95" />
 
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+<img width="1469" alt="May 2014 Dashboard" src="https://github.com/user-attachments/assets/8b1df1b9-628c-4390-b553-441c14a2575a" />
 
-> _(Replace with your actual image path in the repo)_
+<img width="1469" alt="October 2014 Dashboard" src="https://github.com/user-attachments/assets/65b5bcbf-0ce6-4282-b900-9756496000d3" />
+
 
 ---
 
@@ -72,14 +66,7 @@ The dataset includes **real house sales** in King County, WA (2014–2015), with
 ## 👨‍💻 Author
 
 **Majid Manzoor**  
-📍 Richmond, Canada  
-🏷️ Tableau Public Profile: _[Add your Tableau Public profile link here]_
 
----
+🏷️ Tableau Public Profile: https://public.tableau.com/app/profile/majid.manzoor
 
-## 💬 Contact
-
-For questions, feedback, or collaboration:
-- GitHub Issues (open a ticket)
-- Add your contact details here (optional)
 
