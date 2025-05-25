@@ -31,11 +31,13 @@ This Tableau Public project presents a visual exploration of house sales data in
 
 
 ## 🖼️ Dashboard Preview
+<img width="1469" alt="October 2014 Dashboard" src="https://github.com/user-attachments/assets/65b5bcbf-0ce6-4282-b900-9756496000d3" />
+
 --<img width="1258" alt="Map" src="https://github.com/user-attachments/assets/5aef33ae-3146-49e2-be30-0836c92dea95" />
 
 <img width="1469" alt="May 2014 Dashboard" src="https://github.com/user-attachments/assets/8b1df1b9-628c-4390-b553-441c14a2575a" />
 
-<img width="1469" alt="October 2014 Dashboard" src="https://github.com/user-attachments/assets/65b5bcbf-0ce6-4282-b900-9756496000d3" />
+
 
 
 ---
